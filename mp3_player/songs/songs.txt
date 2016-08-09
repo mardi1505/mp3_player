@@ -1,0 +1,16 @@
+3
+Boston
+John Finnemore
+Cabin Pressure - Series 01
+/Users/Tim/Documents/New Java Folder/project4/mp3/electronic/Boston.mp3
+
+Abby
+John Finnemore
+Cabin Pressure - Series 01
+/Users/Tim/Documents/New Java Folder/project4/mp3/rap/Abby.mp3
+
+Chicago
+John Finnemore
+Cabin Pressure - Series 01
+/Users/Tim/Documents/New Java Folder/project4/mp3/rock/Chicago.mp3
+
