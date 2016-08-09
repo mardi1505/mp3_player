@@ -1,0 +1,2 @@
+# mp3_player
+An mp3 player with an interface similar to iTunes. The program is able to load mp3 files from your local mp3 directory and its subdirectories, extract tags from the mp3 files (artist, title and album) using an external library called jAudiotagger and then display the sorted list of songs on the panel. The user will be able to select a given song, and then play it by clicking the Play button.
